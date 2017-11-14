@@ -1,0 +1,17 @@
+{
+  "name": "simple-messenger-bot",
+  "version": "1.0.0",
+  "description": "Simple messanger bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danylo Horeiko <danylomaster@ukr.net>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "request": "^2.83.0"
+  }
+}
